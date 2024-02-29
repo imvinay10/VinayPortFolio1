@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/imvinay10",
   resume:
-    "https://drive.google.com/file/d/1mtmvgGLKTAY5PuxUgSgdeAXlzE6kBlcY/view?usp=drive_link",
+    "https://raw.githubusercontent.com/imvinay10/Personal/main/Vinay%20Mahajan%20SDE.pdf",
   linkedin: "https://www.linkedin.com/in/vinay-mahajan10/",
   insta: "https://www.instagram.com/i_m.vinay/",
 };
@@ -160,8 +160,8 @@ export const experiences = [
     img: "https://image.pitchbook.com/GwJO7pb7oo16IxJyattoTeHTupR1624328973948_200x200",
     role: "Software Development Engineer Intern",
     company: "Easyecom Pvt. Ltd.",
-    date: "January 2022 - July 2023",
-    desc: "Working as Software Development Enginner (SDE-I) at Easyecom, a dynamic startup company, I held positions in various teams over the course of a year. I began in the Customization team, where I specialized in tailoring the platform to meet clients' specific needs.Later, I transitioned to the Order Management System team, streamlining and optimizing order processingworkflows. In my final role as a valuable member of the Integration team, I successfully managed API integrations for marketplaces and sellers from top marketplaces",
+    date: "January 2022 - June 2022",
+    desc: "During my internship, I played a pivotal role in driving the development of key feature modules. This involved not only coding but also actively participating in the design and implementation process. I successfully delivered tasks within tight deadlines, showcasing my ability to work efficiently under pressure. Moreover, I collaborated closely with cross-functional teams, ensuring seamless integration of these modules into the overall project. This experience not only honed my technical skills but also fostered my ability to contribute effectively to a collaborative and dynamic work environment",
     skills: [
       "PHP",
       "Laravel",
@@ -183,7 +183,7 @@ export const experiences = [
     img: "https://w1.pngwing.com/pngs/615/119/png-transparent-company-logo-organization-course-hero-homework-skill-blue-text.png",
     role: "Tutor",
     company: "CourseHero Pvt. Ltd.",
-    date: "Aug 2021 - Jan 2022",
+    date: "Aug 2021 - dec 2021",
     desc: "As a tutor on CourseHero.com, I excelled in providing comprehensive solutions and explanations to students questions, effectively addressing their doubts related to various computer engineering subjects. With a strong grasp of the subject matter, I offered clear and concise explanations, helping students enhance their understanding and academic performance",
     skills: [
       "Computer Security",
@@ -306,12 +306,44 @@ export const projects = [
     github: "https://github.com/imvinay10/myContactsApp",
     // webapp: "https://brain-tumor.netlify.app/",
   },
-];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  {
+    id: 2,
+    title: "File Sharing App",
+    date: "Feb 2024 - Feb 2024",
+    description:
+      "MERN FileSharing: Seamlessly share files with the MERN stack (MongoDB, Express.js, React, Node.js). User-friendly interface for secure uploads and downloads. Ideal for team collaboration, document sharing, and secure storage.",
+    image:
+      "https://github.com/imvinay10/filessharing/raw/main/filesharing.png",
+    tags: ["NodeJs", "ExpressJs", "MongoDb", "Postman", "React","HTML","CSS"],
+    category: "micro-projects",
+    github: "https://github.com/imvinay10/filessharing",
+    // webapp: "https://brain-tumor.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Web-Page project 1",
+    date: "Jan 2024 - jan 2024",
+    description:
+      "tried to copy of web page for react code practice.",
+    image:
+      "https://github.com/imvinay10/mirco-project-1/raw/main/Screenshot%202024-02-25%20222428.png",
+    tags: [ "React","HTML","CSS"],
+    category: "micro-projects",
+    github: "https://github.com/imvinay10/mirco-project-1",
+    webapp: "https://silly-phoenix-0f1a84.netlify.app",
+  },
+  {
+    id: 2,
+    title: "Web-Page project 2",
+    date: "Jan 2024 - jan 2024",
+    description:
+      "Tried to copy of web page for react code practice(Only Frontend).",
+    image:
+      "https://github.com/imvinay10/micro-project-2/raw/main/Screenshot%202024-02-12%20142042.png",
+    tags: [ "React","JavaScript","HTML","CSS"],
+    category: "micro-projects",
+    github: "https://github.com/imvinay10/micro-project-2",
+    webapp: "https://main--celebrated-fairy-992872.netlify.app/",
+  },
 ];
