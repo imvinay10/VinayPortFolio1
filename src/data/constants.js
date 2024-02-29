@@ -126,7 +126,7 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg",
       },
-      
+
     ],
   },
 ];
@@ -301,7 +301,7 @@ export const projects = [
       "The Contact Management App is a user-friendly application designed to efficiently organize and manage contacts. It provides an intuitive interface for individuals or businesses to store, retrieve, and update contact information. Developed using modern web technologies such as HTML, CSS, and JavaScript, the app utilizes a backend framework like Express.js and integrates with databases like MongoDB or MySQL for data management. Key features include contact storage, search and filter options, contact updates with data validation, user authentication for secure access, and contact sharing capabilities to facilitate collaboration. With these functionalities, the Contact Management App streamlines contact organization and enhances productivity for users. ",
     image:
       "https://as1.ftcdn.net/v2/jpg/02/43/48/24/1000_F_243482494_w0uB2EoYdeWPvzzLA0DbyA7qgAm7K3B6.jpg",
-    tags: ["NodeJs", "ExpressJs", "MongoDb", "Postman", "React","HTML","CSS"],
+    tags: ["NodeJs", "ExpressJs", "MongoDb", "Postman", "React", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/imvinay10/myContactsApp",
     // webapp: "https://brain-tumor.netlify.app/",
@@ -315,7 +315,7 @@ export const projects = [
       "MERN FileSharing: Seamlessly share files with the MERN stack (MongoDB, Express.js, React, Node.js). User-friendly interface for secure uploads and downloads. Ideal for team collaboration, document sharing, and secure storage.",
     image:
       "https://github.com/imvinay10/filessharing/raw/main/filesharing.png",
-    tags: ["NodeJs", "ExpressJs", "MongoDb", "Postman", "React","HTML","CSS"],
+    tags: ["NodeJs", "ExpressJs", "MongoDb", "Postman", "React", "HTML", "CSS"],
     category: "micro-projects",
     github: "https://github.com/imvinay10/filessharing",
     // webapp: "https://brain-tumor.netlify.app/",
@@ -328,7 +328,7 @@ export const projects = [
       "tried to copy of web page for react code practice.",
     image:
       "https://github.com/imvinay10/mirco-project-1/raw/main/Screenshot%202024-02-25%20222428.png",
-    tags: [ "React","HTML","CSS"],
+    tags: ["React", "HTML", "CSS"],
     category: "micro-projects",
     github: "https://github.com/imvinay10/mirco-project-1",
     webapp: "https://silly-phoenix-0f1a84.netlify.app",
@@ -341,7 +341,7 @@ export const projects = [
       "Tried to copy of web page for react code practice(Only Frontend).",
     image:
       "https://github.com/imvinay10/micro-project-2/raw/main/Screenshot%202024-02-12%20142042.png",
-    tags: [ "React","JavaScript","HTML","CSS"],
+    tags: ["React", "JavaScript", "HTML", "CSS"],
     category: "micro-projects",
     github: "https://github.com/imvinay10/micro-project-2",
     webapp: "https://main--celebrated-fairy-992872.netlify.app/",
