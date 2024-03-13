@@ -9,7 +9,7 @@ export const Bio = {
   github: "https://github.com/imvinay10",
   resume:
     "https://raw.githubusercontent.com/imvinay10/Personal/main/Vinay%20Mahajan%20SDE.pdf",
-  linkedin: "https://www.linkedin.com/in/vinay-mahajan10/",
+  linkedin: "https://www.linkedin.com/in/vinaymahajan01/",
   insta: "https://www.instagram.com/i_m.vinay/",
 };
 
@@ -345,5 +345,18 @@ export const projects = [
     category: "micro-projects",
     github: "https://github.com/imvinay10/micro-project-2",
     webapp: "https://main--celebrated-fairy-992872.netlify.app/",
+  },
+  {
+    id: 12,
+    title: "Rock-Paper-Sessior Game",
+    date: "Feb 2024 - Feb 2024",
+    description:
+      "Rock Paper Sessior game using html, css and js.",
+    image:
+      "https://github.com/imvinay10/Rock-Paper-Scissor/blob/master/rock-paper-sessior%20ss.png?raw=true",
+    tags: ["JavaScript", "HTML", "CSS"],
+    category: "micro-projects",
+    github: "https://github.com/imvinay10/Rock-Paper-Scissor",
+    webapp: "https://rock-paper-scissor-thegame.netlify.app/",
   },
 ];
